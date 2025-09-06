@@ -7,7 +7,7 @@ Users can **Register**, **login**, select a **Domestic** or **International** pl
 
 ---
 
-## Course Context
+## Description
 - **Course Name:** Object Oriented Programming 1 (OOP)  
 - **Language:** Java  
 - **Project Type:** Console-based application  
